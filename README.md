@@ -5,7 +5,7 @@
 |Прогноз покупательской активности|Retail Analytics, Supervised Machine Learning  |Персональные AI-рекомендации для покупателей  | pandas, numpy, matplotlib, seaborn, scikit-learn, pipeline, shap, phik|
 |Предсказание заказов такси|Time Series Forecasting with Machine Learning|Прогнозирование количества заказов такси по временным рядам |pandas, numpy, matplotlib, statsmodels, sklearn, catboost|
 |Определение возраста покупателей|Computer Vision |Определение возраста покупателей по изображениям с помощью нейросетей | pandas, numpy, matplotlib, tensorflow|
-| | | |pandas, nltk, sklearn, catboost, gridsearchcv |
+|Классификация токсичных комментариев |Natural Language Processing |Определение токсичных комментариев с помощью ML |pandas, nltk, sklearn, catboost, gridsearchcv |
 | | | | |
 | | | | |
 | | | | |
