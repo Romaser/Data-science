@@ -9,7 +9,9 @@
 |Выбор локации для скважины |Oil exploration Supervised Machine Learning|Прогнозирование прибыльности нефтяных скважин для выбора оптимального региона бурения |pandas, numpy, matplotlib, scipy, scikit-learn |
 |Прогнозирование удоя коров и качеств молока |dairy industry, Supervised Machine Learning |Отбор коров по прогнозируемым качествам |pandas, matplotlib, numpy, scikit-learn, seaborn |
 |Моделирование процессов в металлургии |Metallurgy Supervised Machine Learning |Оптимизация процессов в металлургической промышленности |pandas, matplotlib, numpy, seaborn, os, scikit-learn, catboost, lightgbm |
-| | | | |
-| | | | |
-
-
+|Исследование продаж игр |Retail Analytics Supervised Machine Learning |Выявление закономерностей, влияющих на успешность игр, проверка гипотез |numpy, pandas, scipy, seaborn, plotly, matplotlib |
+|Сравнение Москвы и Петербурга на основе данных Яндекс Музыки |Data Analytics |Сравнение музыкальных предпочтений пользователей Москвы и Петербурга в зависимости от времени суток и дня недели |pandas |
+|Анализ факторов, влияющих на погашение кредита |Credit Risk Analysis |Оценка влияния семейного положения и количества детей на факт погашения кредита в срок |pandas |
+|Прогнозирование стоимости автомобиля |Car sales Supervised Machine Learning |Автоматическое определение рыночной стоимости подержанных автомобилей по характеристикам |pandas, numpy, scikit-learn, catboost, lightgbm, phik |
+|Анализ данных аренды самокатов |Data Analytics |Анализ данных аренды самокатов с целью выявления идей для роста бизнеса |pandas, numpy, matplotlib, seaborn, scipy, stats |
+|Исследование объявлений о продаже квартир |Real Estate Analytics |Определение рыночной стоимости объектов недвижимости на основе данных о продаже квартир |pandas, numpy, matplotlib, seaborn |
