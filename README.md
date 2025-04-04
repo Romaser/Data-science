@@ -7,7 +7,7 @@
 |Определение возраста покупателей|Computer Vision |Определение возраста покупателей по изображениям с помощью нейросетей | pandas, numpy, matplotlib, tensorflow|
 |Классификация токсичных комментариев |Natural Language Processing |Определение токсичных комментариев с помощью ML |pandas, nltk, scikit-learn, catboost, gridsearchcv |
 |Выбор локации для скважины |Oil exploration Supervised Machine Learning|Прогнозирование прибыльности нефтяных скважин для выбора оптимального региона бурения |pandas, numpy, matplotlib, scipy, scikit-learn |
-|Прогнозирование удоя коров и качеств молока |Supervised Machine Learning | | |
+|Прогнозирование удоя коров и качеств молока |dairy industry, Supervised Machine Learning |Отбор коров по прогнозируемым качествам |pandas, matplotlib, numpy, scikit-learn, seaborn |
 | | | | |
 | | | | |
 | | | | |
